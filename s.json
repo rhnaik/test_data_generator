@@ -1,0 +1,103 @@
+{
+  "volume_details": [
+    {
+      "array": "10.210.41.214",
+      "vendor": "netapp",
+      "supported_protocols": [ "nfs", "cifs", "FC", "iscsi" ],
+      "svm_list": [
+        {
+          "svm": "RDQE_SVM21",
+          "volume_list": [
+            "ism_nas_test_vol1",
+            "ism_nas_test_vol2",
+            "ism_nas_test_vol3",
+            "ism_nas_test_vol4",
+            "ism_nas_test_vol5",
+            "ism_nas_test_vol6",
+            "ism_nas_test_vol7",
+            "ism_nas_test_vol8",
+            "ism_nas_test_vol9"
+          ]
+        },
+        {
+          "svm": "RDQE_SVM22",
+          "volume_list": [
+            "ism_nas_test_vol10",
+            "ism_nas_test_vol20",
+            "ism_nas_test_vol30",
+            "ism_nas_test_vol40",
+            "ism_nas_test_vol50",
+            "ism_nas_test_vol60",
+            "ism_nas_test_vol70",
+            "ism_nas_test_vol80",
+            "ism_nas_test_vol90"
+          ]
+        },
+        {
+          "svm": "RDQE_SVM23",
+          "volume_list": [
+            "ism_nas_test_vol11",
+            "ism_nas_test_vol21",
+            "ism_nas_test_vol33",
+            "ism_nas_test_vol44",
+            "ism_nas_test_vol55",
+            "ism_nas_test_vol66",
+            "ism_nas_test_vol77",
+            "ism_nas_test_vol88",
+            "ism_nas_test_vol99"
+          ]
+        }
+      ]
+    },
+    {
+      "array": "10.210.41.215",
+      "vendor": "netapp",
+      "supported_protocols": [ "nfs", "cifs", "FC", "iscsi" ],
+      "svm_list": [
+        {
+          "svm": "RDQE_SVM24",
+          "volume_list": [
+            "qe_test_vol1",
+            "qe_test_vol2",
+            "qe_test_vol3",
+            "qe_test_vol4",
+            "qe_test_vol5",
+            "qe_test_vol6",
+            "qe_test_vol7",
+            "qe_test_vol8",
+            "qe_test_vol9"
+          ]
+        },
+        {
+          "svm": "RDQE_SVM25",
+          "volume_list": [
+            "qe_test_vol10",
+            "qe_test_vol20",
+            "qe_test_vol30",
+            "qe_test_vol40",
+            "qe_test_vol50",
+            "qe_test_vol60",
+            "qe_test_vol70",
+            "qe_test_vol80",
+            "qe_test_vol90"
+          ]
+        },
+        {
+          "svm": "RDQE_SVM26",
+          "volume_list": [
+            "qe_test_vol11",
+            "qe_test_vol21",
+            "qe_test_vol33",
+            "qe_test_vol44",
+            "qe_test_vol55",
+            "qe_test_vol66",
+            "qe_test_vol77",
+            "qe_test_vol88",
+            "qe_test_vol99"
+          ]
+        }
+      ]
+    }
+  ]
+} 
+
